@@ -1,0 +1,20 @@
+.homeText {
+  font-size: 35px;
+  color: red;
+  text-align: center;
+  position: relative;
+  top: 30px;
+  text-shadow: 2px 2px 2px gray;
+}
+
+.form-control.ng-touched.ng-invalid{
+  border: 2px solid red;
+}
+
+.text-success{
+  color: green;
+}
+
+.logout:hover{
+  cursor: pointer;
+}
